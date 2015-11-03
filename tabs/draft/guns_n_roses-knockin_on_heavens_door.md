@@ -25,6 +25,7 @@ Intro
 ```
 
 1st Verse :
+```
 G     D                    Am   Am
 Mamma take this badge from me
 G        D         C    C
@@ -33,24 +34,28 @@ G             D                 Am    Am
  It's getting dark, too dark to see
 G               D                    C     C
  Feels like I'm knocking on heaven's door
-
+```
 
 
 Chorus : 
+```
 G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
 G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
      C
 Hey, hey, hey, hey, yeah
+```
 
 
-
-Solo : [G][D][C][C] x2
-
+Solo : 
+```
+[G][D][C][C] x2
+```
 
 
 2nd Verse :
+```
 G      D                   Am   Am
  Mama, put my guns in the ground
 G        D             C    C
@@ -59,25 +64,29 @@ G                D               Am     Am
  That cold black cloud is coming down
 G               D                    C     C
  Feels like I'm knocking on heaven's door
-
+```
 
 
  Chorus : 
+```
 G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
 G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
      C
 Hey, hey, hey, hey, yeah
+```
 
 
-
-bridge : [G][D][C][C] x6
-
+bridge : 
+```
+[G][D][C][C] x6
+```
 
 
 
 Chorus : 
+```
 G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
 G            D                     C C G            D                    C
@@ -90,3 +99,4 @@ G            D                     C C G            D                    C
  Knock knock knocking on heaven's door, knock knock knocking on heaven's door,
      C              G>let ring
 Hey, hey, hey, hey, yeah
+```
