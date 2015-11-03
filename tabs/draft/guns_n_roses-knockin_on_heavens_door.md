@@ -1,7 +1,7 @@
 #Knockin' on Heaven's Door 
-#Guns N' Roses 
+##Guns N' Roses 
 
-Use your illusion II 
+From Album Use your illusion II 
 
 
 Intro
