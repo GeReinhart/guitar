@@ -34,8 +34,11 @@ E|-------------------------------------------------------------
 
 
 There's a lady who's sure all that glitters is gold 
+
 And she's buying the stairway to heaven
+
 When she gets there she knows, if the stores are all closed 
+
 With a word she can get what she came for
 
 ```
