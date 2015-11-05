@@ -32,13 +32,24 @@ A|-0-2-3-----------------------------0-2-3---------------------
 E|-------------------------------------------------------------
 ```
 
+
+There's a lady who's sure all that glitters is gold 
+And she's buying the stairway to heaven
+When she gets there she knows, if the stores are all closed 
+With a word she can get what she came for
+
+```
 E|-------5-7-----7-8-----8-2-----2-0---------0--------------------
 B|-----5-----5-------5-------3-------1---1-----1----0-1-1---------
 G|---5---------5-------5-------2-------2---------2--0-2-2--------- repeat
 D|-7-------6-------5-------4-------3----------------0-2-2---------
 A|----------------------------------------------------0-0---0s8s7-
 E|--------------------------------------------------3-------------
+```
+
 
 
 Resources : 
  - [licknriff tabs](http://www.licknriff.com/wp-content/uploads/2012/04/Stairway-to-Heaven.jpg)
+ - [licknriff video](https://www.youtube.com/watch?v=lUlAO0QaVTA)
+ - [tabs4acoustic](http://www.tabs4acoustic.com/en/guitar-tabs/led-zeppelin-tabs/stairway-to-heaven-acoustic-tab-223.html)
