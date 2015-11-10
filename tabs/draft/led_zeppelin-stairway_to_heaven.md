@@ -95,3 +95,4 @@ Resources :
  - [licknriff tabs](http://www.licknriff.com/wp-content/uploads/2012/04/Stairway-to-Heaven.jpg)
  - [licknriff video](https://www.youtube.com/watch?v=lUlAO0QaVTA)
  - [tabs4acoustic](http://www.tabs4acoustic.com/en/guitar-tabs/led-zeppelin-tabs/stairway-to-heaven-acoustic-tab-223.html)
+ - [cover](https://www.youtube.com/watch?v=aELNtCl9J_0)
