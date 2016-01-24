@@ -1,12 +1,5 @@
 ## Rumba Flamenca
 
-Doigt :
-Petit doigt : 1
-Annulaire   : 2
-Majeur      : 3
-Index       : 4
-
-
 ```
 
            1           2           3           4           5           6           7           8
@@ -18,7 +11,8 @@ Index       : 4
            +
         Tappe
         / Caisse 
-        (2)(3)
+        Annulaire
+        Majeur
         
 
 ```
