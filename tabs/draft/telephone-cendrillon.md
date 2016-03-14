@@ -20,17 +20,18 @@ Capo 2
 
 
 ###Partie A: couplet
-
+```
 Rytmique: B-BH-HB- 
 G - D/F# - Em - C
-
+```
 ###Partie B: pré refain
+```
                         >     >     > 
 Rytmique: B en croches: 1 2 3 4 5 6 7 8 
 
 Bm - G  - D  - Em
 Am - Am - C  - C
-
+```
 ###Partie C: refrain
 
 G    - D - D/Em
