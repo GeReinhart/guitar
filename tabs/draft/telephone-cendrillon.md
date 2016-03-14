@@ -18,7 +18,7 @@ Capo 2
 |-----------------|-----------------|-----------------|-----------------|
 ```
 
-Rytmique : B-BH-H-B- 
+Rytmique : B-BH-HB- 
 ###Partie A: couplet
 
 G - D/F# - Em - C
