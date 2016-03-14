@@ -139,11 +139,13 @@ Maman ne travaille plus
 Sans ses excitants
 Quelqu'un leur vend
 De quoi tenir le coup
+
 Je suis un électron
 Bombardé de protons
 Le rythme de la ville
 C'est ça mon vrai patron
 Je suis chargé d'électricité
+
 Si par malheur au coeur
 De l'accélérateur
 J'rencontre une particule
