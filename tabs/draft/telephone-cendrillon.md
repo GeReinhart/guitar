@@ -1,7 +1,14 @@
 #Cendrillon
 
+##Téléphone
+
+
 http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cendrillon/
+
+
 Capo 2
+
+###Intro
 ```
 |---3---3---3---3-|---2---2---2---2-|---0---0---0---0-|---0---0---0---0-|
 |-----3-------3---|-----3-------3---|-----3-------3---|-----1-------1---|
@@ -11,7 +18,22 @@ Capo 2
 |-----------------|-----------------|-----------------|-----------------|
 ```
 
-##Téléphone
+Rytmique : B-BH-H-B- 
+###Partie A: couplet
+
+G - D/F# - Em - C
+
+###Partie B: pré refain
+
+Bm - G  - D  - Em
+Am - Am - C  - C
+
+###Partie C: refrain
+
+G    - D - D/Em
+Bm/C
+
+
 
 ```
 Intro A E F#m D x4
