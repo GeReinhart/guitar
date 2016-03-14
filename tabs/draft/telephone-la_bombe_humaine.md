@@ -31,7 +31,7 @@ D:------2-----2--------2--------3-----3--------3---|
 A:---0-----------------------0---------------------|
 E:-------------------------------------------------|
   Je veux te parler          de demain..
-		  de l'arme
+	 de l'arme
 
 
     F#m/A x04220            A7 x05220 or x02020
@@ -42,7 +42,7 @@ D:-----4-----4--------4--------5-----5--------5----|
 A:--0-----------------------0----------------------|
 E:-------------------------------------------------|
     enfantee du monde       sera la fin   je veux te...
-		     elle en}
+              elle en
 
 
            D  x00232                F  133211
@@ -104,7 +104,7 @@ A:--0------------------------3----------------------|------|
 E:--------------------------------------------------|------|
 1La Bombe Humaine            dans ta main...
 	        tu la tiens
-2Tu gardes le detonateur juste a cote du coeur...
+2Tu gardes l' detonateur juste a cote du coeur...
 3La Bombe humaine            t'appartiens...
 	      cette fois elle
 
@@ -133,19 +133,19 @@ la fin...inhin
 Back to verse...
 Verse 2:
 
-Mon p?re ne dort plus
+Mon père ne dort plus
 Sans prendre ses calmants
 Maman ne travaille plus
 Sans ses excitants
 Quelqu'un leur vend
 De quoi tenir le coup
-Je suis un ?lectron
-Bombard? de protons
+Je suis un électron
+Bombardé de protons
 Le rythme de la ville
-C'est ?a mon vrai patron
-Je suis charg? d'?lectricit?
+C'est ça mon vrai patron
+Je suis chargé d'électricité
 Si par malheur au coeur
-De l'acc?l?rateur
+De l'accélérateur
 J'rencontre une particule
 Qui m'mette de sale humeur
 
