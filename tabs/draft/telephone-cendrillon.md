@@ -8,9 +8,9 @@ http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cendrillon/
 
 Capo 2
 
-###Intro
+###Intro + premier couplet
 ```
-       Répéter 2 fois avant les paroles
+
 
 |---3---3---3---3-|---2---2---2---2-|---0---0---0---0-|---0---0---0---0-|
 |-----3-------3---|-----3-------3---|-----3-------3---|-----1-------1---|
@@ -19,16 +19,17 @@ Capo 2
 |-----------------|-----------------|-----------------|-----------------|
 |-----------------|-----------------|-----------------|-----------------|
 
-     Continuer l'arpège pendant le premier couplet:
+     Répéter 2 fois avant les paroles
+     Continuer l'arpège pendant le premier couplet
 ```
 
 Cendrillon pour ses vingt ans
+
 Est la plus jolie des enfants
+
 Son bel amant, le prince charmant
+
 La prend sur son cheval blanc
-
-
-
 
 
 
