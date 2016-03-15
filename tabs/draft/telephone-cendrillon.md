@@ -55,6 +55,7 @@ Pour ne pas voir qu'un nouveau jour se lève
 
 Elle ferme les yeux et dans ses rêves
 
+###Refain
 ```
   G                 D/F#              Em                C
 |-----------------|-----------------|-----------------|-----------------|
@@ -64,7 +65,7 @@ Elle ferme les yeux et dans ses rêves
 
 Elle part, jolie petite histoire (x2)
 
-
+-----------
 
 ###Partie A: couplet
 
