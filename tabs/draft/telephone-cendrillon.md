@@ -43,12 +43,31 @@ Elle oublie le temps
 
 Dans ce palais d'argent
 
+```
+ Am                 Am                C                 C
+|-----------------|-----------------|-----------------|-----------------|
+
+                              >     >     > 
+    Rytmique: Bas en croches: 1 2 3 4 5 6 7 8 
+```
+
+Pour ne pas voir qu'un nouveau jour se lève
+
+Elle ferme les yeux et dans ses rêves
+
+```
+  G                 D/F#              Em                C
+|-----------------|-----------------|-----------------|-----------------|
+
+   Rytmique: B-BH-HB- 
+```
+
+Elle part, jolie petite histoire (x2)
+
+
 
 ###Partie A: couplet
-```
-Rytmique: B-BH-HB- 
-G - D/F# - Em - C
-```
+
 ###Partie B: pré refain
 ```
                         >     >     > 
