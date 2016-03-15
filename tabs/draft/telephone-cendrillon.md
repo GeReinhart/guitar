@@ -82,13 +82,26 @@ Elle part, jolie petite histoire (x2)
 ```
 
 
--------------------------
+###Paroles 
 ```
+Cendrillon pour ses vingt ans
+Est la plus jolie des enfants
+Son bel amant, le prince charmant
+La prend sur son cheval blanc
+
+Elle oublie le temps
+Dans ce palais d'argent
+
+Pour ne pas voir qu'un nouveau jour se lève
+Elle ferme les yeux et dans ses rêves
+
+Elle part, jolie petite histoire (x2)
 
 Cendrillon pour ses trente ans
 Est la plus triste des mamans
 Son prince charmant a foutu l'camp
 Avec la belle au bois dormant
+
 Elle a vu cent chevaux blanc
 Loin d'elle emmener ses enfants
 Elle commence à  boire
@@ -96,16 +109,19 @@ A traîner dans les bars
 
 Emmitouflée dans son cafard
 Maintenant elle fait le trottoir
+
 Elle part, jolie petite histoire (x2)
 
 Dix ans de cette vie ont suffit
 A la changer en junkie
 Et dans un sommeil infini
 Cendrillon veut voit finir sa vie
+
 Les lumières dansent
 Dans l'ambulance
 Mais elle tue sa dernière chance
 Tout ça n'a plus d'importance
+
 Elle part
 Fin de l'histoire
 
