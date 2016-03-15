@@ -60,36 +60,16 @@ Elle ferme les yeux et dans ses rêves
   G                 D/F#              Em                C
 |-----------------|-----------------|-----------------|-----------------|
 
+  G                 D                 D       Em        Bm        C
+|-----------------|-----------------|-----------------|-----------------|
+
    Rytmique: B-BH-HB- 
 ```
 
 Elle part, jolie petite histoire (x2)
 
------------
-
-###Partie A: couplet
-
-###Partie B: pré refain
+-------------------------
 ```
-                        >     >     > 
-Rytmique: B en croches: 1 2 3 4 5 6 7 8 
-
-Bm - G  - D  - Em
-Am - Am - C  - C
-```
-###Partie C: refrain
-
-G    - D - D/Em
-Bm/C
-
-
-
-```
-
-
-Pour ne pas voir qu'un nouveau jour se lève
-Elle ferme les yeux et dans ses rêves
-Elle part, jolie petite histoire (x2)
 
 Cendrillon pour ses trente ans
 Est la plus triste des mamans
