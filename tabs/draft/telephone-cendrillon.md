@@ -29,6 +29,19 @@ Son bel amant, le prince charmant
 
 La prend sur son cheval blanc
 
+###Pré refrain
+
+```
+ Bm                 G                 D                 Em
+|-----------------|-----------------|-----------------|-----------------|
+
+    Un accord par mesure
+
+```
+
+Elle oublie le temps
+
+Dans ce palais d'argent
 
 
 ###Partie A: couplet
@@ -53,9 +66,7 @@ Bm/C
 
 ```
 
-Elle oublie le temps
 
-Dans ce palais d'argent
 Pour ne pas voir qu'un nouveau jour se lève
 Elle ferme les yeux et dans ses rêves
 Elle part, jolie petite histoire (x2)
