@@ -135,10 +135,17 @@ Tout ça n'a plus d'importance
 Elle part
 Fin de l'histoire
 
+(D)
+
+(Ax2)
+(Ax2):
 Notre père qui êtes si vieux
 As-tu vraiment fais de ton mieux
 Car sur la terre et dans les cieux
+
+                      Cm       G 
 Tes anges n'aiment pas devenir vieux
+
 
 ```
 
