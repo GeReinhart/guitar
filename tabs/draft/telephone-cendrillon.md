@@ -1,6 +1,6 @@
 #Cendrillon
 
-##Téléphone
+###Téléphone
 
 
 Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cendrillon/
@@ -8,7 +8,7 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cen
 
 Capo 2
 
-###Intro + premier couplet
+##Intro + premier couplet
 ####A
 ```
 |---3---3---3---3-|---2---2---2---2-|---0---0---0---0-|---0---0---0---0-|
@@ -29,7 +29,7 @@ Son bel amant, le prince charmant
 
 La prend sur son cheval blanc
 
-###Pré refrain
+##Pré refrain
 ####B
 ```
  Bm                 G                 D                 Em
@@ -55,7 +55,7 @@ Pour ne pas voir qu'un nouveau jour se lève
 
 Elle ferme les yeux et dans ses rêves
 
-###Refain
+##Refain
 ####C
 ```
   G                 D                 D       Em        Bm        C
@@ -80,7 +80,7 @@ Elle part, jolie petite histoire (x2)
 ```
 
 
-###Structure et paroles 
+##Structure et paroles 
 ```
 (Ax2)
 
