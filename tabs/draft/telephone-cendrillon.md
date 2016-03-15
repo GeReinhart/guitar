@@ -3,7 +3,7 @@
 ##Téléphone
 
 
-http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cendrillon/
+Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-4/cendrillon/
 
 
 Capo 2
