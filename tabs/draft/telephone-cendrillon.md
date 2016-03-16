@@ -93,7 +93,8 @@ Elle part, jolie petite histoire (x2)
                                                                           x1
   G                 D                 D       Em        Bm        C
 |-----------------|-----------------|-----------------|-----------------|
-                                                                          x1                                                                          
+                                                                          x1
+                                                                          
                               >     >     > 
     Rytmique: Bas en croches: 1 2 3 4 5 6 7 8 
 ```
