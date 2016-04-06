@@ -6,7 +6,7 @@
 Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux-sombres-heros-de-lamer/
 
 ##Accords
-
+```
    Am      F       C       C/B     Dm
 
   x-----  ------  x-----  x-----  x-----   
@@ -16,7 +16,7 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
   ------  ------  ------  ------  ------
   ||||||  |##|||  |#||||  ||||||  ||||#|
   ------  ------  ------  ------  ------
-
+```
 
 ##Structure et paroles 
 ```
