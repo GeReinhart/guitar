@@ -17,7 +17,7 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
   ||||||  |##|||  |#||||  ||||||  ||||#|
   ------  ------  ------  ------  ------
 
-<style>
+</style>
 
 ##Structure et paroles 
 ```
