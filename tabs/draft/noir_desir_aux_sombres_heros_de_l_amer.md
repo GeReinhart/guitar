@@ -6,21 +6,6 @@
 Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux-sombres-heros-de-lamer/
 
 
-##Accords 
-<div style="generic-family: monospace" >
-```
-   Am      F       C       C/B     Dm
-
-    x-----  ------  x-----  x-----  x-----   
-    ||||#|  ######  ||||#|  ||||#|  |||||#
-    ------  ------  ------  ------  ------
-    ||##||  |||#||  ||#|||  |#||||  |||#||
-    ------  ------  ------  ------  ------
-    ||||||  |##|||  |#||||  ||||||  ||||#|
-    ------  ------  ------  ------  ------
-```
-</div>
-
 ##Structure et paroles 
 ```
 Aux sombres héros de l'amer 
