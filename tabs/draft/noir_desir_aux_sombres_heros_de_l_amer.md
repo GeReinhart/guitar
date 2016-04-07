@@ -7,11 +7,11 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
 
 ##Accords
 
-![Am](https://github.com/GeReinhart/guitar/blob/master/chords/Am.png)
-![F](https://github.com/GeReinhart/guitar/blob/master/chords/F.png)
-![C](https://github.com/GeReinhart/guitar/blob/master/chords/C.png)
-![C/B](https://github.com/GeReinhart/guitar/blob/master/chords/C_base_B.png)
-![Dm](https://github.com/GeReinhart/guitar/blob/master/chords/Dm.png)
+![Am](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/Am.png)
+![F](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/F.png)
+![C](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/C.png)
+![C/B](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/C_base_B.png)
+![Dm](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/Dm.png)
 
 ##Structure et paroles 
 ```
