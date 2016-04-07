@@ -36,6 +36,17 @@ B-BHB-B-B-B-
 
 
 ##Structure et paroles 
+
+```
+A A (instrumental)
+A A B B
+A A B B B B
+A A A A (instrumental)
+A A A A B B
+A A A A (instrumental)
+B B B B...
+```
+
 ```
 Aux sombres héros de l'amer 
 Qui ont su traverser les océans du vide 
