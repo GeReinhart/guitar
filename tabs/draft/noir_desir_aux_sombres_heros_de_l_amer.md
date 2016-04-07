@@ -13,6 +13,12 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
 ![C/B](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/C_base_B.png)
 ![Dm](https://raw.githubusercontent.com/GeReinhart/guitar/master/chords/Dm.png)
 
+##Rythmiques
+```
+  >   >
+B-BHB-B-B-B-
+```
+
 ##Structure et paroles 
 ```
 Aux sombres héros de l'amer 
