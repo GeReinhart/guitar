@@ -481,13 +481,12 @@
       </data>
     </node>
     <node id="n26">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="64.0" width="135.0" x="335.0" y="56.0"/>
+          <y:Geometry height="64.0" width="171.0" x="311.0" y="56.0"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="50" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.203125" modelName="custom" textColor="#000000" visible="true" width="86.91015625" x="24.044921875" y="0.8984375">Am<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="50" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.203125" modelName="custom" textColor="#000000" visible="true" width="86.91015625" x="42.044921875" y="0.8984375">Am<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
