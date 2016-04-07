@@ -5,6 +5,9 @@
 
 Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux-sombres-heros-de-lamer/
 
+##Accords
+
+![Am](../../chords/Am.png)
 
 ##Structure et paroles 
 ```
