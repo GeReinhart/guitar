@@ -18,6 +18,22 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
   >   >
 B-BHB-B-B-B-
 ```
+###Intro+Couplet
+####A
+```
+ Am                 F                 C       C/B       F
+|-----------------|-----------------|-----------------|-----------------|
+                                                                          x1
+```                                                                          
+
+###Refrain
+####B
+```
+ Am                 C                 Dm                F
+|-----------------|-----------------|-----------------|-----------------|
+                                                                          x1
+```                                                                          
+
 
 ##Structure et paroles 
 ```
