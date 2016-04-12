@@ -15,7 +15,7 @@ Source : http://www.galagomusic.com/difficulte-du-cours-guitare/difficulte-3/aux
 
 ##Rythmiques
 ```
-  >   >
+>     >
 B-BHB-B-B-B-
 ```
 ###Intro+Couplet
